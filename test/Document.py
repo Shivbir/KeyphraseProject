@@ -15,4 +15,13 @@ class Document:
         Constructor
         '''
         f = open(fileName)
-        raw = f.read()
+        self.raw = f.read()
+    
+    def setAbstract(self, abst):
+        self.abstract = abst
+    
+    def setBody(self, body):
+        self.body = body
+    
+    def getFrequency(self, word):
+        return 666
