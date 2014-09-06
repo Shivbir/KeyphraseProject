@@ -38,6 +38,7 @@ Lexical Ranking - step 4 and 5
 
  Datasets
 ================
-http://qwone.com/~jason/20Newsgroups/
-http://ota.ahds.ac.uk/desc/2531
+ http://qwone.com/~jason/20Newsgroups/
+ 
+ http://ota.ahds.ac.uk/desc/2531
 
