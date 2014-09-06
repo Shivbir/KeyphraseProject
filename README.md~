@@ -6,13 +6,14 @@ Project to get keyphrased from articles useing NLTK.
 
 Implementation ToDo List
 ================
-[ ] Find all articles in the data set and load them one at a time
-[ ] etc
+ [ ] Find all articles in the data set and load them one at a time
+ [ ] implement tfidf
+ [ ] Possibly make a document object
 
 
 
------- Steps to create the Graph
-
+Steps to create the Graph
+================
 1.  Tokenization of documents to get tokens
 2.  Parse the tokens to get the syntax tree for sentences.   --- apple pie/ NLTK parser will assign the NP 
 3.  Extracting all NP's found from the step 2 and then in case the document does not have any NP's then we have to eliminate stop words,  and also to allow words with certain part-of-speech tags(eg. noun,adjectives, verbs)
