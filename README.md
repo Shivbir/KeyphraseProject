@@ -33,3 +33,11 @@ Lexical Ranking - step 4 and 5
 5.  For relations or the edges between the keyphrases, we will use Wordnet  ------  tdidf for wt, node wt(tdidf)and edge wt(frequency 
 
 // Checking how many times the term appeared in the whole corpus
+
+
+
+ Datasets
+================
+http://qwone.com/~jason/20Newsgroups/
+http://ota.ahds.ac.uk/desc/2531
+
