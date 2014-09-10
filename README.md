@@ -42,3 +42,4 @@ Lexical Ranking - step 4 and 5
  
  http://ota.ahds.ac.uk/desc/2531
 
+https://github.com/snkim/AutomaticKeyphraseExtraction/
