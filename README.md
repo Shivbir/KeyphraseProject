@@ -38,6 +38,11 @@ Lexical Ranking - step 4 and 5
 
  Datasets
 ================
+RECENT : As Dr. Omar Suggested, we will be using computer science dataset, i found wiki20.tar.gz from the website
+https://code.google.com/p/maui-indexer/downloads/list
+Let me know what you think about the dataset.
+
+
  http://qwone.com/~jason/20Newsgroups/
  
  http://ota.ahds.ac.uk/desc/2531
